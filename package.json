@@ -1,0 +1,13 @@
+{
+  "name": "week-1",
+  "version": "1.0.0",
+  "description": "The first week",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
