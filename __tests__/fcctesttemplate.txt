@@ -1,0 +1,21 @@
+"use strict";
+const {functionNameHere} = require("./../scripts/functionnamehere");
+
+describe("functionNameHere", () => {
+    test("", () => {
+        let result = functionNameHere();
+        expect(result).toBe();
+    })
+    test("", () => {
+        let result = functionNameHere();
+        expect(result).toBe();
+    })
+    test("", () => {
+        let result = functionNameHere();
+        expect(result).toBe();
+    })
+    test("", () => {
+        let result = functionNameHere();
+        expect(result).toBe();
+    })
+})
