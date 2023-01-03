@@ -1,0 +1,10 @@
+"use strict";
+
+//TODO Big O = ?
+
+// Copy and paste assignment from freeCodeCamp page here.
+
+
+//Copy and paste starting code provided by freeCOdeCamp here.
+
+module.exports = {findLongestWordLength};
