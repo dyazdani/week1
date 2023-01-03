@@ -7,4 +7,4 @@
 
 //Copy and paste starting code provided by freeCOdeCamp here.
 
-module.exports = {findLongestWordLength};
+module.exports = {functionNameHere};
