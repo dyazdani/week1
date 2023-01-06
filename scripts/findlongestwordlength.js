@@ -1,6 +1,6 @@
 "use strict";
 
-//TODO Big O = ?
+//TODO Big O = O(n)
 
 // Return the length of the longest word in the provided sentence.
 
