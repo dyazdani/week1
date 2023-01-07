@@ -1,6 +1,6 @@
 "use strict";
 
-//TODO Big O = ?
+//Big O = O(n)
 
 // Slice and Splice
 // You are given two arrays and an index.
