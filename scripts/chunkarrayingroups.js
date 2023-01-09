@@ -8,11 +8,9 @@
 
 function chunkArrayInGroups(arr, size) {
     let newArr = [];
-    let j = size;
-    for (let i = 0; i < arr.length; i += j) {
-        newArr.push(arr.slice(i, i + j));
-    }
-    return newArr;
+    for (let i = 0; i < arr.length; i += size) {
+        newArr.push(arr.slice(i, i + size));
+    } return newArr;
   }
 
 module.exports = {chunkArrayInGroups};
