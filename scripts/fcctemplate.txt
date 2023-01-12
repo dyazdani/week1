@@ -5,6 +5,6 @@
 // Copy and paste assignment from freeCodeCamp page here.
 
 
-//Copy and paste starting code provided by freeCOdeCamp here.
+//Copy and paste starting code provided by freeCodeCamp here.
 
 module.exports = {functionNameHere};
